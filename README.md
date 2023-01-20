@@ -1,2 +1,5 @@
-# FirstSite
- Primeiro Repositorio versionado.
+# First Site
+
+Primeiro Repositorio versionado.
+
+Aprendendo a usar guit e guithub.
